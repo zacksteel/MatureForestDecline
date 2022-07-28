@@ -1,0 +1,6 @@
+Model,Variable,Estimate,Est.Error,Q2.5,Q97.5
+Structure,Intercept,-0.1836,0.0306,-0.2437,-0.1251
+Structure,cc11_s,0.3289,0.0444,0.2428,0.4155
+Structure,ht11_s,-0.1313,0.0441,-0.2179,-0.047
+Class,Intercept,-0.3117,0.043,-0.3968,-0.2282
+Class,classpac,0.2532,0.0614,0.1335,0.3758

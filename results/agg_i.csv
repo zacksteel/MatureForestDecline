@@ -1,0 +1,29 @@
+layer,level,class,id,metric,value,group,year
+1,class,1,NA,ai,86.68344725363934,forest,2020
+1,class,11,NA,ai,74.564735540393,forest - fire,2020
+1,class,1,NA,ai,87.92876911263954,forest - no fire,2020
+1,class,11,NA,ai,46.21621621621622,hmature - fire,2020
+1,class,1,NA,ai,61.49672168211621,hmature - no fire,2020
+1,class,1,NA,ai,73.54265560637428,mature,2020
+1,class,11,NA,ai,64.11803137269827,mature - fire,2020
+1,class,1,NA,ai,74.98697642213648,mature - no fire,2020
+1,class,11,NA,ai,52.33732896874926,mmature - fire,2020
+1,class,1,NA,ai,62.807243043340996,mmature - no fire,2020
+1,class,0,NA,ai,77.85797490953847,other,2020
+1,class,0,NA,ai,91.95228058865136,other,2020
+1,class,10,NA,ai,85.85951662434456,other - fire,2020
+1,class,10,NA,ai,93.27422636095403,other - fire,2020
+1,class,10,NA,ai,93.75014935782515,other - fire,2020
+1,class,10,NA,ai,93.92464729339093,other - fire,2020
+1,class,0,NA,ai,69.6727132533154,other - no fire,2020
+1,class,0,NA,ai,91.14155456141009,other - no fire,2020
+1,class,0,NA,ai,91.686712291239985,other - no fire,2020
+1,class,0,NA,ai,91.96128619389754,other - no fire,2020
+1,class,1,NA,ai,92.73248237897987,forest,2011
+1,class,1,NA,ai,83.0873045247326,hmature,2011
+1,class,1,NA,ai,84.75552646014822,mature,2011
+1,class,1,NA,ai,76.77148764355833,mmature,2011
+1,class,0,NA,ai,73.42658373601344,other,2011
+1,class,0,NA,ai,91.5919991982459,other,2011
+1,class,0,NA,ai,92.2082774942137,other,2011
+1,class,0,NA,ai,92.12094961064638,other,2011

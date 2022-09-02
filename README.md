@@ -1,3 +1,3 @@
 # Mature Forest Decline
 
-Code in support of "Mega-disturbances cause rapid decline of mature conifer forest habitat in California" currently in review by Ecological Applications. Required spatial data will be made publically available upon acceptance.
+Code in support of "Mega-disturbances cause rapid decline of mature conifer forest habitat in California" accepted by Ecological Applications. Spatial data used by the code within this repo are available at a Dryad repository (DOI will be added soon).
